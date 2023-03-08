@@ -1,0 +1,25 @@
+/**************************/
+/* BELOW 770px (Smaller tablets) */
+/**************************/
+
+@media (max-width: 48.125em) {
+
+     /* FOOTER */
+    .copyright{
+        order: 2; 
+        flex:  1 100%;
+        margin-top: 2.4rem;
+        text-align: center;
+    }
+}
+
+/**************************/
+/* BELOW 544px (Phones) */
+/**************************/
+
+@media (max-width: 34em) {
+    .footer{
+        justify-content: center;
+    }
+
+}
