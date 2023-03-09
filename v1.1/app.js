@@ -1,7 +1,7 @@
 ///////////////////////////////////////////////////////////
 // Sticky Navigation
 
-// const sectionHeroEL = document.querySelector(".container ");
+// const sectionHeroEL = document.querySelector(".sticky-header ");
 
 // const obs = new IntersectionObserver(function (entries) {
 //     const ent = entries[0];
